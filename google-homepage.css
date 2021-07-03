@@ -1,0 +1,30 @@
+.nav-bar-list{
+    list-style-type: none;
+    font-size: 13px;
+
+}
+
+.left-nav li{
+
+
+    display: inline;
+    float: left;
+
+}
+
+.right-nav li{
+
+    margin-right: 1.5%;
+    display: inline;
+    float: right;
+
+}
+#sign-in{
+    display: inline-block;
+    width: 70px;
+    height: 25px;
+    background-color: rgb(88, 128, 238);
+    color: white;
+    vertical-align: center;
+    text-align: center;
+}
